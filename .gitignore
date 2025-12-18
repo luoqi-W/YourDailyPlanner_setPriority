@@ -1,0 +1,19 @@
+# MATLAB autosave & backup
+*.asv
+*.m~
+
+# Compiled files
+*.mex*
+*.p
+*.slxc
+
+# Simulink
+slprj/
+*.slx.r*
+
+# Code generation
+codegen/
+
+# OS files
+.DS_Store
+Thumbs.db
